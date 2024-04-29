@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, I'm Dinesh Choudhary 👋
 
-<!--
-**dineshchoudhary2125/dineshchoudhary2125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a BCA student, proficient in C++, HTML,CSS and JavaScript I'm dedicated to refining my skills. Let's connect and explore the possibilities together!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React
+- 📫 How to reach me: dineshchoudhary2125@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** JavaScript, C++
+- **Libraries:** React
+- **Tools:** Github,VS code
+
+
